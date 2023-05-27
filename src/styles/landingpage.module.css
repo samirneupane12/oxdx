@@ -18,7 +18,7 @@
   display: block;
   margin-top: 4%;
   position: absolute;
-  max-width: 700px;
+  max-width: 900px;
   padding: 10px;
   margin: 16px;
   margin-left: 0px;
@@ -32,7 +32,9 @@
 }
 @media screen and (max-width: 1360px) {
 .Landingpage_text h2 {
-   font-size:5.1rem
+   font-size:5.1rem;
+       max-width: 700px;
+
   }
   
 }
