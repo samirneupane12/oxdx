@@ -18,15 +18,15 @@
   display: block;
   margin-top: 4%;
   position: absolute;
-  max-width: 500px;
+  max-width: 700px;
   padding: 10px;
   margin: 16px;
   margin-left: 0px;
 }
 .Landingpage_text h2 {
   margin: 0;
-  font-family: "Roboto", sans-serif;
-  font-size: 4rem;
+  font-family: "helvetica", sans-serif;
+  font-size: 5.1rem;
   color: #f5f5f5;
   font-weight: 400;
 }

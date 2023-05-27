@@ -30,8 +30,8 @@ function Footer() {
       <div className={style.footer_controller}>
         <div className={style.footer_info_text}>
           <span>
-            Trade Crypto Option on the world's first high-performance
-            decentralized options marketplace.
+            Trade crypto options on the world&apos;s first high-performance
+            decentralized multi-chain marketplace.
           </span>
         </div>
         <div className={style.footerSocial}>

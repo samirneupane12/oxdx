@@ -4,10 +4,10 @@ const Landingpage = () => {
   return (
     <div>
       <div className={style.bgVideo_loop}>
-        <img src="collection/video/bg_loop_v2.gif" alt="" />
+        <img src="collection/Video/bg_loop_v2.gif" alt="" />
       </div>{" "}
       <div className={style.Landingpage_text}>
-        <h2>On-Chain Options Marketplace Has Arrived</h2>
+        <h2>Multichain Options Marketplace for BRC & DRC</h2>
       </div>
     </div>
   );
