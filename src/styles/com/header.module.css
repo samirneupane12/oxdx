@@ -22,7 +22,7 @@
   max-width: 141px;
   max-height: 141px;
   position: relative;
-  margin-left: -18px;
+  margin-left: -10px;
   border-right: 1px solid #181819;
 }
 .brand img {
@@ -94,7 +94,7 @@
 .footer_info_text {
   max-width: 480px;
   display: block;
-  margin-left: -5px;
+  margin-left: 10px;
 }
 .footer_info_text span {
   font-size: 14px;
