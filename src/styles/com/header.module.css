@@ -73,7 +73,7 @@
   display: block;
   position: absolute;
   width: 100%;
-  bottom: 0px;
+  bottom: -15px;
 }
 .hover_effect {
   position: fixed;
