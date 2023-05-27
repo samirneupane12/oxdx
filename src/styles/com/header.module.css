@@ -6,6 +6,7 @@
   z-index: 10;
   background-color: #0a0b0d;
   border-bottom: 1px solid #181819;
+  overflow:hidden;
 }
 
 .nav_handler {
