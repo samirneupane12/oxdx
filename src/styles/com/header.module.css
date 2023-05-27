@@ -94,7 +94,7 @@
 .footer_info_text {
   max-width: 480px;
   display: block;
-  margin-left: 20px;
+  margin-left: 33px;
 }
 .footer_info_text span {
   font-size: 14px;
@@ -150,7 +150,10 @@
     padding: 0;
   }
 }
-
+@media screen and (max-width: 1360px) {
+  .footer_info_text{
+  margin-left:10px;
+  }}
 @media screen and (max-width: 550px) {
   .Market_btn {
     width: 100px;
