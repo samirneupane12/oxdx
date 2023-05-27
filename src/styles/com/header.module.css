@@ -105,6 +105,7 @@
 .footerSocial {
   position: relative;
   display: block;
+  margin-right:33px;
 }
 .footerSocial ul {
   display: flex;
@@ -151,6 +152,9 @@
   }
 }
 @media screen and (max-width: 1360px) {
+  .footerSocial{
+   margin-right:10px; 
+  }
   .footer_info_text{
   margin-left:10px;
   }}
